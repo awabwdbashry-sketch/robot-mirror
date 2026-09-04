@@ -331,3 +331,9 @@ python robot_mirror.py
 ---
 
 **Built with 🐍 Python, 📷 OpenCV, ✋ MediaPipe, 🤖 and Computer Vision.**
+## 👨‍💻 Developer
+
+**Awab Bashary | AwabBuilds**
+
+GitHub: **awabwdbashry-sketch**
+
