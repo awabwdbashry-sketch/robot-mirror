@@ -328,3 +328,9 @@ If you find this project useful or interesting, consider giving the repository a
 ---
 
 **Built with 🐍 Python, 📷 OpenCV, ✋ MediaPipe, 🤖 and Computer Vision.**
+## 👨‍💻 Developer
+
+**Awab Bashary | AwabBuilds**
+
+GitHub: **awabwdbashry-sketch**
+
